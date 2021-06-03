@@ -1,2 +1,6 @@
 # robuxhack
-Username de roblox:  pasword de roblox:  ingrese la cantidad de robux:    listo
+Username de roblox:
+Pasword de roblox:
+Cantidad de robux max9999999:
+Generando
+
